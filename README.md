@@ -32,12 +32,12 @@ A voice assistant is a digital assistant that uses voice recognition, language p
 - Opens presentation on command
 
 ## System Architecture 
-![architecture](system_arc)
+![architecture](system_arc.png)
 
 ## Implementation
 
-![Screenshot 1](image_1)
-![Screenshot 2](image_2)
+![Screenshot 1](image_1.png)
+![Screenshot 2](image_2.png)
 <!-- Add more screenshots as necessary -->
 
 ## Code
