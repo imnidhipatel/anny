@@ -44,10 +44,6 @@ A voice assistant is a digital assistant that uses voice recognition, language p
 
 The code for this voice assistant can be found in the [main.py](main.py)
 
-## Conclusion
-
-While this personal voice assistant system currently offers an impressive array of features, there is always room for growth and enhancement. The implementation showcases the design of an Intelligent Personal Voice Assistant, leveraging open-source software modules and supported by the Visual Studio Code community. Its modular architecture ensures seamless integration of additional functionalities without disrupting existing operations. This assistant not only responds to explicit commands but also interprets user queries, providing a versatile and user-friendly experience for various tasks and operations.
-
 ---
 
 For any inquiries or suggestions, please feel free to reach out.
