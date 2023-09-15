@@ -42,7 +42,7 @@ A voice assistant is a digital assistant that uses voice recognition, language p
 
 ## Code
 
-The code for this voice assistant can be found in the ![main.py](main.py)
+The code for this voice assistant can be found in the [main.py](main.py)
 
 ## Conclusion
 
